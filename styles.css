@@ -1,0 +1,50 @@
+body {
+    background-color: grey;
+}
+
+header {
+    background: white;
+    
+}
+
+.centrar {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.post {
+    background-color: white;
+    margin-top: 50px;
+    box-shadow: 1px 3px 7px rgba(50, 50, 50, 0.1);
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.post h2,
+.post span
+ {
+    padding: 10px 10px;
+    margin: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+p {
+    padding: 15px 15px;
+    margin: 0;
+}
+
+span {
+    color: rgb(210, 210,210)
+}
+
+h2 {
+    font-size: 18px;
+}
